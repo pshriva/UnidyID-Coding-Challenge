@@ -1,5 +1,3 @@
-package randomNumberGenerator;
-
 /*
  * @author : Pranjali Shrivastava 
  * Output: The image generated as output is named as "RandomColorImage.png". Please look for the output
