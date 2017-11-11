@@ -16,4 +16,4 @@ This challenge is programming language agnostic! Pick whichever language you're 
 - An RSA key pair (We would discourage you from implementing your own textbook keypair implementation based on exponents and GCD)
 
 
-Please find the attached code as my solution for "CREATING AN RGB BITMAP PICTURE OF 128X128 PIXELS" to the given set of requirements.
+Please find the attached code as my solution for "CREATING AN RGB BITMAP PICTURE OF 128X128 PIXELS" to the given challenge.
